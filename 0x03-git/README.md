@@ -1,2 +1,1 @@
-
-V1
+Starting to code today, so cool
